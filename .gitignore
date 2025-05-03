@@ -1,0 +1,3 @@
+# Git ignore configuration
+/venv
+.env

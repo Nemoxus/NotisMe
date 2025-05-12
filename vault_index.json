@@ -1,0 +1,644 @@
+[
+    {
+        "reading_name": ".md",
+        "relative_path": ".md",
+        "created": "2025-03-05T05:47:25.940623",
+        "modified": "2023-11-08T21:27:17.456616"
+    },
+    {
+        "reading_name": "Agents in AI",
+        "relative_path": "Agents in AI.md",
+        "created": "2025-03-05T05:47:25.961686",
+        "modified": "2024-11-23T23:44:10.694196"
+    },
+    {
+        "reading_name": "Alumni EventFlow",
+        "relative_path": "Alumni EventFlow.md",
+        "created": "2025-03-05T05:47:25.963706",
+        "modified": "2024-07-26T00:28:28.707860"
+    },
+    {
+        "reading_name": "Checking Gradient Descent for Convergence",
+        "relative_path": "Checking Gradient Descent for Convergence.md",
+        "created": "2025-03-05T05:47:25.966686",
+        "modified": "2024-10-28T11:58:59.930509"
+    },
+    {
+        "reading_name": "Choosing the Learning Rate",
+        "relative_path": "Choosing the Learning Rate.md",
+        "created": "2025-03-05T05:47:25.967691",
+        "modified": "2024-10-28T12:08:09.119397"
+    },
+    {
+        "reading_name": "Implementing Gradient Descent for Multiple Linear Regression with Vectorization",
+        "relative_path": "Implementing Gradient Descent for Multiple Linear Regression with Vectorization.md",
+        "created": "2025-03-05T05:47:25.969691",
+        "modified": "2024-10-28T11:44:46.582345"
+    },
+    {
+        "reading_name": "Linked List - I",
+        "relative_path": "Linked List - I.md",
+        "created": "2025-03-05T05:47:25.972691",
+        "modified": "2025-02-05T03:37:57.766930"
+    },
+    {
+        "reading_name": "literature review",
+        "relative_path": "literature review.md",
+        "created": "2025-03-05T05:47:25.974689",
+        "modified": "2025-01-29T17:21:23.598966"
+    },
+    {
+        "reading_name": "Myntra Email",
+        "relative_path": "Myntra Email.md",
+        "created": "2025-03-05T05:47:25.976685",
+        "modified": "2025-01-19T23:31:30.983560"
+    },
+    {
+        "reading_name": "OSI arch (cryptography)",
+        "relative_path": "OSI arch (cryptography).md",
+        "created": "2025-03-05T05:47:25.977685",
+        "modified": "2024-11-28T14:52:47.902089"
+    },
+    {
+        "reading_name": "Software Quality Assurance DA-I",
+        "relative_path": "Software Quality Assurance DA-I.md",
+        "created": "2025-03-05T05:47:25.995686",
+        "modified": "2024-10-24T16:06:11.378611"
+    },
+    {
+        "reading_name": "space week planning",
+        "relative_path": "space week planning.md",
+        "created": "2025-03-05T05:47:25.996690",
+        "modified": "2024-10-25T23:54:18.694490"
+    },
+    {
+        "reading_name": "Space Week",
+        "relative_path": "Space Week.md",
+        "created": "2025-03-05T05:47:25.998688",
+        "modified": "2024-09-14T15:57:33.081904"
+    },
+    {
+        "reading_name": "Types of Neural Networks",
+        "relative_path": "Types of Neural Networks.md",
+        "created": "2025-03-05T05:47:25.999686",
+        "modified": "2025-01-30T13:07:47.342525"
+    },
+    {
+        "reading_name": "Types of OS",
+        "relative_path": "Types of OS.md",
+        "created": "2025-03-05T05:47:26.000684",
+        "modified": "2025-01-12T15:47:51.741300"
+    },
+    {
+        "reading_name": "Zeroth Review Draft",
+        "relative_path": "Zeroth Review Draft.md",
+        "created": "2025-03-05T05:47:26.003689",
+        "modified": "2024-12-19T17:51:04.504542"
+    },
+    {
+        "reading_name": "First Order Logic",
+        "relative_path": "Artificial Intelligence (Theory)\\First Order Logic.md",
+        "created": "2025-03-05T05:47:26.784567",
+        "modified": "2024-10-12T18:50:51.568403"
+    },
+    {
+        "reading_name": "Free and Bound Variables",
+        "relative_path": "Artificial Intelligence (Theory)\\Free and Bound Variables.md",
+        "created": "2025-03-05T05:47:26.786567",
+        "modified": "2024-10-12T18:28:22.525713"
+    },
+    {
+        "reading_name": "Hill Climbing Search",
+        "relative_path": "Artificial Intelligence (Theory)\\Hill Climbing Search.md",
+        "created": "2025-03-05T05:47:26.789567",
+        "modified": "2024-10-13T03:33:50.365829"
+    },
+    {
+        "reading_name": "Inference in FOL",
+        "relative_path": "Artificial Intelligence (Theory)\\Inference in FOL.md",
+        "created": "2025-03-05T05:47:26.790567",
+        "modified": "2024-10-12T22:17:20.870450"
+    },
+    {
+        "reading_name": "Local Search Algorithm and Optimized Problem",
+        "relative_path": "Artificial Intelligence (Theory)\\Local Search Algorithm and Optimized Problem.md",
+        "created": "2025-03-05T05:47:26.792568",
+        "modified": "2024-10-13T02:32:50.361876"
+    },
+    {
+        "reading_name": "Negation of Quantified Expressions",
+        "relative_path": "Artificial Intelligence (Theory)\\Negation of Quantified Expressions.md",
+        "created": "2025-03-05T05:47:26.794568",
+        "modified": "2024-10-12T14:49:16.177668"
+    },
+    {
+        "reading_name": "Propositional Logic",
+        "relative_path": "Artificial Intelligence (Theory)\\Propositional Logic.md",
+        "created": "2025-03-05T05:47:26.798566",
+        "modified": "2024-10-09T11:16:34.839702"
+    },
+    {
+        "reading_name": "Types of Hill Climbing",
+        "relative_path": "Artificial Intelligence (Theory)\\Types of Hill Climbing.md",
+        "created": "2025-03-05T05:47:26.800564",
+        "modified": "2024-10-13T02:27:31.006346"
+    },
+    {
+        "reading_name": "Comp Networks Main",
+        "relative_path": "Comp Networks\\Comp Networks Main.md",
+        "created": "2025-03-05T05:47:26.805567",
+        "modified": "2023-09-30T01:26:26.249985"
+    },
+    {
+        "reading_name": "Digital Assignment - 2",
+        "relative_path": "Comp Networks\\Digital Assignment - 2.md",
+        "created": "2025-03-05T05:47:26.807567",
+        "modified": "2023-11-02T22:50:57.119848"
+    },
+    {
+        "reading_name": "Digital Assignment - 3",
+        "relative_path": "Comp Networks\\Digital Assignment - 3.md",
+        "created": "2025-03-05T05:47:26.809567",
+        "modified": "2023-09-28T23:33:51.966192"
+    },
+    {
+        "reading_name": "Digital Assignment - I",
+        "relative_path": "Comp Networks\\Digital Assignment - I.md",
+        "created": "2025-03-05T05:47:26.810575",
+        "modified": "2023-09-30T16:13:45.440270"
+    },
+    {
+        "reading_name": "Hub & Switch",
+        "relative_path": "Comp Networks\\Hub & Switch.md",
+        "created": "2025-03-05T05:47:26.812581",
+        "modified": "2023-09-10T08:38:34.951194"
+    },
+    {
+        "reading_name": "IEEE 802",
+        "relative_path": "Comp Networks\\IEEE 802.md",
+        "created": "2025-03-05T05:47:26.814575",
+        "modified": "2023-09-20T22:48:00.524893"
+    },
+    {
+        "reading_name": "States of Transaction",
+        "relative_path": "Comp Networks\\States of Transaction.md",
+        "created": "2025-03-05T05:47:26.868145",
+        "modified": "2023-10-19T04:03:21.443930"
+    },
+    {
+        "reading_name": "Switching",
+        "relative_path": "Comp Networks\\Switching.md",
+        "created": "2025-03-05T05:47:26.872149",
+        "modified": "2023-09-09T16:51:43.153649"
+    },
+    {
+        "reading_name": "System Log",
+        "relative_path": "Comp Networks\\System Log.md",
+        "created": "2025-03-05T05:47:26.874146",
+        "modified": "2023-10-19T04:03:30.267798"
+    },
+    {
+        "reading_name": "TCP IP and OSI model",
+        "relative_path": "Comp Networks\\TCP IP and OSI model.md",
+        "created": "2025-03-05T05:47:26.876144",
+        "modified": "2023-09-10T08:35:48.095744"
+    },
+    {
+        "reading_name": "Basic Terms",
+        "relative_path": "Computer Networks\\Basic Terms.md",
+        "created": "2025-03-05T05:47:26.891343",
+        "modified": "2024-05-27T16:14:31.116136"
+    },
+    {
+        "reading_name": "Index",
+        "relative_path": "Computer Networks\\Index.md",
+        "created": "2025-03-05T05:47:26.894343",
+        "modified": "2024-05-27T16:14:59.667779"
+    },
+    {
+        "reading_name": "Introduction",
+        "relative_path": "Computer Networks\\Introduction.md",
+        "created": "2025-03-05T05:47:26.897345",
+        "modified": "2024-05-27T16:01:52.631490"
+    },
+    {
+        "reading_name": "(DAY - 1)",
+        "relative_path": "Daily Grind (1 Month)\\(DAY - 1).md",
+        "created": "2025-03-05T05:47:26.914193",
+        "modified": "2025-03-05T05:43:13.354864"
+    },
+    {
+        "reading_name": "Advantages of using a Database",
+        "relative_path": "DBMS\\Advantages of using a Database.md",
+        "created": "2025-03-05T05:47:26.936277",
+        "modified": "2023-09-15T00:01:20.030372"
+    },
+    {
+        "reading_name": "Data Model",
+        "relative_path": "DBMS\\Data Model.md",
+        "created": "2025-03-05T05:47:26.939771",
+        "modified": "2023-09-20T21:48:29.221353"
+    },
+    {
+        "reading_name": "Database Applications",
+        "relative_path": "DBMS\\Database Applications.md",
+        "created": "2025-03-05T05:47:26.944363",
+        "modified": "2023-09-14T21:46:23.610167"
+    },
+    {
+        "reading_name": "Database Basics",
+        "relative_path": "DBMS\\Database Basics.md",
+        "created": "2025-03-05T05:47:26.947365",
+        "modified": "2023-09-15T00:04:04.964788"
+    },
+    {
+        "reading_name": "DBMS Mains",
+        "relative_path": "DBMS\\DBMS Mains.md",
+        "created": "2025-03-05T05:47:26.950964",
+        "modified": "2023-11-21T19:15:24.046107"
+    },
+    {
+        "reading_name": "DBMS Project",
+        "relative_path": "DBMS\\DBMS Project.md",
+        "created": "2025-03-05T05:47:26.953508",
+        "modified": "2023-09-20T22:33:47.639975"
+    },
+    {
+        "reading_name": "Digital Assignment - 3 [Lab]",
+        "relative_path": "DBMS\\Digital Assignment - 3 [Lab].md",
+        "created": "2025-03-05T05:47:26.957520",
+        "modified": "2023-11-14T10:33:21.794722"
+    },
+    {
+        "reading_name": "Schema, Instances & Database State",
+        "relative_path": "DBMS\\Schema, Instances & Database State.md",
+        "created": "2025-03-05T05:47:26.988988",
+        "modified": "2023-09-15T00:37:58.288150"
+    },
+    {
+        "reading_name": "Ecom Module 1",
+        "relative_path": "E-Com\\Ecom Module 1.md",
+        "created": "2025-03-05T05:47:26.997255",
+        "modified": "2023-09-11T02:36:49.150005"
+    },
+    {
+        "reading_name": "Ecom Module 2",
+        "relative_path": "E-Com\\Ecom Module 2.md",
+        "created": "2025-03-05T05:47:27.000770",
+        "modified": "2023-09-10T22:58:14.135648"
+    },
+    {
+        "reading_name": "Ecom",
+        "relative_path": "E-Com\\Ecom.md",
+        "created": "2025-03-05T05:47:27.002771",
+        "modified": "2023-09-10T16:24:28.494045"
+    },
+    {
+        "reading_name": "Chances & Methods of Recovery",
+        "relative_path": "EDBMS\\Chances & Methods of Recovery.md",
+        "created": "2025-03-05T05:47:27.106016",
+        "modified": "2023-10-19T04:04:22.978632"
+    },
+    {
+        "reading_name": "Concurrency Problems",
+        "relative_path": "EDBMS\\Concurrency Problems.md",
+        "created": "2025-03-05T05:47:27.109266",
+        "modified": "2023-10-19T03:57:39.260496"
+    },
+    {
+        "reading_name": "Digital Assignment - I",
+        "relative_path": "EDBMS\\Digital Assignment - I.md",
+        "created": "2025-03-05T05:47:27.111265",
+        "modified": "2023-10-03T21:35:43.924973"
+    },
+    {
+        "reading_name": "Digital Assignment - II",
+        "relative_path": "EDBMS\\Digital Assignment - II.md",
+        "created": "2025-03-05T05:47:27.113267",
+        "modified": "2023-11-14T10:34:18.839525"
+    },
+    {
+        "reading_name": "EDBMS Files",
+        "relative_path": "EDBMS\\EDBMS Files.md",
+        "created": "2025-03-05T05:47:27.115266",
+        "modified": "2023-09-14T02:17:27.778310"
+    },
+    {
+        "reading_name": "EDBMS Mains",
+        "relative_path": "EDBMS\\EDBMS Mains.md",
+        "created": "2025-03-05T05:47:27.118265",
+        "modified": "2023-09-14T02:57:28.407585"
+    },
+    {
+        "reading_name": "Read & Write",
+        "relative_path": "EDBMS\\Read & Write.md",
+        "created": "2025-03-05T05:47:27.216599",
+        "modified": "2023-10-19T03:59:11.775162"
+    },
+    {
+        "reading_name": "Three Tier Architecture",
+        "relative_path": "EDBMS\\Three Tier Architecture.md",
+        "created": "2025-03-05T05:47:27.218599",
+        "modified": "2023-09-14T02:42:23.851175"
+    },
+    {
+        "reading_name": "Figma",
+        "relative_path": "Figma\\Figma.md",
+        "created": "2025-03-05T05:47:27.227599",
+        "modified": "2023-09-14T02:52:55.391438"
+    },
+    {
+        "reading_name": "Premium Events",
+        "relative_path": "Gravitas '24\\Premium Events.md",
+        "created": "2025-03-05T05:47:27.238600",
+        "modified": "2024-09-02T19:10:01.352645"
+    },
+    {
+        "reading_name": "Atlassian Email",
+        "relative_path": "Hackathon Stellar\\Atlassian Email.md",
+        "created": "2025-03-05T05:47:27.245597",
+        "modified": "2024-09-02T19:42:40.402000"
+    },
+    {
+        "reading_name": "DigitalOcean Mail",
+        "relative_path": "Hackathon Stellar\\DigitalOcean Mail.md",
+        "created": "2025-03-05T05:47:27.273974",
+        "modified": "2024-09-02T19:42:35.690618"
+    },
+    {
+        "reading_name": "GitHub Email",
+        "relative_path": "Hackathon Stellar\\GitHub Email.md",
+        "created": "2025-03-05T05:47:27.276359",
+        "modified": "2024-09-02T19:42:47.626284"
+    },
+    {
+        "reading_name": "Digital Assignment - 1 [Java Theory]",
+        "relative_path": "Java\\Digital Assignment - 1 [Java Theory].md",
+        "created": "2025-03-05T05:47:27.569074",
+        "modified": "2023-11-01T19:49:42.751580"
+    },
+    {
+        "reading_name": "Digital Assignment - 3 [Java Lab]",
+        "relative_path": "Java\\Digital Assignment - 3 [Java Lab].md",
+        "created": "2025-03-05T05:47:27.571069",
+        "modified": "2023-10-31T22:43:41.521893"
+    },
+    {
+        "reading_name": "Digital Assignment - 5 [Lab]",
+        "relative_path": "Java\\Digital Assignment - 5 [Lab].md",
+        "created": "2025-03-05T05:47:27.573074",
+        "modified": "2023-11-14T10:33:37.658328"
+    },
+    {
+        "reading_name": "Digital Assignment - III",
+        "relative_path": "Java\\Digital Assignment - III.md",
+        "created": "2025-03-05T05:47:27.575077",
+        "modified": "2023-10-03T21:36:47.348979"
+    },
+    {
+        "reading_name": "Java Theory",
+        "relative_path": "Java\\Java Theory.md",
+        "created": "2025-03-05T05:47:27.577075",
+        "modified": "2023-09-14T02:50:45.886156"
+    },
+    {
+        "reading_name": "CAT 2 OSP",
+        "relative_path": "Open Source Programming\\CAT 2 OSP.md",
+        "created": "2025-03-05T05:47:27.652056",
+        "modified": "2024-10-14T11:12:10.121952"
+    },
+    {
+        "reading_name": "cookies and session",
+        "relative_path": "Open Source Programming\\cookies and session.md",
+        "created": "2025-03-05T05:47:27.654015",
+        "modified": "2024-10-14T11:09:54.925644"
+    },
+    {
+        "reading_name": "Database Handling with MySQL",
+        "relative_path": "Open Source Programming\\Database Handling with MySQL.md",
+        "created": "2025-03-05T05:47:27.656012",
+        "modified": "2024-10-14T11:11:22.501698"
+    },
+    {
+        "reading_name": "File Handling in PHP",
+        "relative_path": "Open Source Programming\\File Handling in PHP.md",
+        "created": "2025-03-05T05:47:27.658015",
+        "modified": "2024-10-13T22:25:37.814958"
+    },
+    {
+        "reading_name": "Functions in PHP",
+        "relative_path": "Open Source Programming\\Functions in PHP.md",
+        "created": "2025-03-05T05:47:27.660013",
+        "modified": "2024-10-13T21:52:33.259740"
+    },
+    {
+        "reading_name": "PHP Sessions",
+        "relative_path": "Open Source Programming\\PHP Sessions.md",
+        "created": "2025-03-05T05:47:27.662013",
+        "modified": "2024-10-14T01:13:10.383903"
+    },
+    {
+        "reading_name": "Recursive Functions",
+        "relative_path": "Open Source Programming\\Recursive Functions.md",
+        "created": "2025-03-05T05:47:27.664011",
+        "modified": "2024-10-13T21:50:38.125204"
+    },
+    {
+        "reading_name": "String Manipulation",
+        "relative_path": "Open Source Programming\\String Manipulation.md",
+        "created": "2025-03-05T05:47:27.666013",
+        "modified": "2024-10-13T18:26:27.382674"
+    },
+    {
+        "reading_name": "Data Mining & Warehousing",
+        "relative_path": "Projects\\Data Mining & Warehousing.md",
+        "created": "2025-03-05T05:47:27.673015",
+        "modified": "2023-11-04T03:06:14.416465"
+    },
+    {
+        "reading_name": "Project 1",
+        "relative_path": "Projects\\Project 1.md",
+        "created": "2025-03-05T05:47:27.675014",
+        "modified": "2023-11-04T02:27:43.353848"
+    },
+    {
+        "reading_name": "Projects",
+        "relative_path": "Projects\\Projects.md",
+        "created": "2025-03-05T05:47:27.677014",
+        "modified": "2023-11-04T03:07:47.354975"
+    },
+    {
+        "reading_name": "Cause & Effect Graph",
+        "relative_path": "Software Quality Assurance\\Cause & Effect Graph.md",
+        "created": "2025-03-05T05:47:27.683033",
+        "modified": "2024-10-17T03:24:08.172463"
+    },
+    {
+        "reading_name": "Decision Tables (SQA)",
+        "relative_path": "Software Quality Assurance\\Decision Tables (SQA).md",
+        "created": "2025-03-05T05:47:27.687012",
+        "modified": "2024-10-17T03:25:42.546827"
+    },
+    {
+        "reading_name": "State Table Based Testing",
+        "relative_path": "Software Quality Assurance\\State Table Based Testing.md",
+        "created": "2025-03-05T05:47:27.689464",
+        "modified": "2024-10-17T04:47:38.913393"
+    },
+    {
+        "reading_name": "Astro Quiz Plans",
+        "relative_path": "Timepass\\Astro Quiz Plans.md",
+        "created": "2025-03-05T05:47:27.700480",
+        "modified": "2023-10-29T21:58:01.381194"
+    },
+    {
+        "reading_name": "astronomyclub",
+        "relative_path": "Timepass\\astronomyclub.md",
+        "created": "2025-03-05T05:47:27.702475",
+        "modified": "2023-09-21T01:46:32.071378"
+    },
+    {
+        "reading_name": "CSS Box Model",
+        "relative_path": "Timepass\\CSS Box Model.md",
+        "created": "2025-03-05T05:47:27.705476",
+        "modified": "2024-05-14T19:46:38.507464"
+    },
+    {
+        "reading_name": "Data Analytics (Digital Assignment - I)",
+        "relative_path": "Timepass\\Data Analytics (Digital Assignment - I).md",
+        "created": "2025-03-05T05:47:27.707476",
+        "modified": "2024-02-26T21:56:05.641996"
+    },
+    {
+        "reading_name": "DBMS Project",
+        "relative_path": "Timepass\\DBMS Project.md",
+        "created": "2025-03-05T05:47:27.709474",
+        "modified": "2023-11-24T23:48:32.685667"
+    },
+    {
+        "reading_name": "Decomposition of Complex Systems",
+        "relative_path": "Timepass\\Decomposition of Complex Systems.md",
+        "created": "2025-03-05T05:47:27.711476",
+        "modified": "2024-02-09T21:27:08.679763"
+    },
+    {
+        "reading_name": "Events for Outreach",
+        "relative_path": "Timepass\\Events for Outreach.md",
+        "created": "2025-03-05T05:47:27.714474",
+        "modified": "2024-02-04T23:10:55.054862"
+    },
+    {
+        "reading_name": "Impression Management",
+        "relative_path": "Timepass\\Impression Management.md",
+        "created": "2025-03-05T05:47:27.716476",
+        "modified": "2024-02-17T00:28:57.733037"
+    },
+    {
+        "reading_name": "Object Oriented Methodology",
+        "relative_path": "Timepass\\Object Oriented Methodology.md",
+        "created": "2025-03-05T05:47:27.719476",
+        "modified": "2024-05-03T14:37:12.645152"
+    },
+    {
+        "reading_name": "SDLC",
+        "relative_path": "Timepass\\SDLC.md",
+        "created": "2025-03-05T05:47:27.721480",
+        "modified": "2024-02-09T21:30:38.921455"
+    },
+    {
+        "reading_name": "Softskills",
+        "relative_path": "Timepass\\Softskills.md",
+        "created": "2025-03-05T05:47:27.723473",
+        "modified": "2023-09-07T00:44:20.378018"
+    },
+    {
+        "reading_name": "To Do Tasks",
+        "relative_path": "Timepass\\To Do Tasks.md",
+        "created": "2025-03-05T05:47:27.725474",
+        "modified": "2023-11-04T03:07:42.027792"
+    },
+    {
+        "reading_name": "Travel Blog",
+        "relative_path": "Timepass\\Travel Blog.md",
+        "created": "2025-03-05T05:47:27.727473",
+        "modified": "2023-11-18T19:17:02.946533"
+    },
+    {
+        "reading_name": "WebDev Revision",
+        "relative_path": "Timepass\\WebDev Revision.md",
+        "created": "2025-03-05T05:47:27.730477",
+        "modified": "2024-05-14T22:22:02.168495"
+    },
+    {
+        "reading_name": "XML",
+        "relative_path": "Timepass\\XML.md",
+        "created": "2025-03-05T05:47:27.732653",
+        "modified": "2024-05-15T00:48:20.020992"
+    },
+    {
+        "reading_name": "Yantra GD Selection",
+        "relative_path": "Timepass\\Yantra GD Selection.md",
+        "created": "2025-03-05T05:47:27.735667",
+        "modified": "2024-03-15T21:47:27.462481"
+    },
+    {
+        "reading_name": "Basic Structure Traffic Flow",
+        "relative_path": "Traffic Flow Prediction\\Basic Structure Traffic Flow.md",
+        "created": "2025-03-05T05:47:27.756667",
+        "modified": "2024-10-26T01:39:18.195005"
+    },
+    {
+        "reading_name": "2D Arrays in Visual Basic",
+        "relative_path": "Visual Programming\\2D Arrays in Visual Basic.md",
+        "created": "2025-03-05T05:47:27.773897",
+        "modified": "2024-10-16T03:55:50.155640"
+    },
+    {
+        "reading_name": "Arrays in Visual Basic",
+        "relative_path": "Visual Programming\\Arrays in Visual Basic.md",
+        "created": "2025-03-05T05:47:27.786864",
+        "modified": "2024-10-16T03:24:45.685495"
+    },
+    {
+        "reading_name": "Common Dialog Control in VB",
+        "relative_path": "Visual Programming\\Common Dialog Control in VB.md",
+        "created": "2025-03-05T05:47:27.802093",
+        "modified": "2024-10-16T08:23:57.428585"
+    },
+    {
+        "reading_name": "Difference bwn SDI & MDI",
+        "relative_path": "Visual Programming\\Difference bwn SDI & MDI.md",
+        "created": "2025-03-05T05:47:27.818434",
+        "modified": "2024-10-16T04:11:39.665999"
+    },
+    {
+        "reading_name": "Functions in Visual Basic",
+        "relative_path": "Visual Programming\\Functions in Visual Basic.md",
+        "created": "2025-03-05T05:47:27.821436",
+        "modified": "2024-10-16T03:25:12.976940"
+    },
+    {
+        "reading_name": "MDI Forms",
+        "relative_path": "Visual Programming\\MDI Forms.md",
+        "created": "2025-03-05T05:47:27.824437",
+        "modified": "2024-10-16T07:58:28.903984"
+    },
+    {
+        "reading_name": "Menu Creation in VB",
+        "relative_path": "Visual Programming\\Menu Creation in VB.md",
+        "created": "2025-03-05T05:47:27.827434",
+        "modified": "2024-10-16T08:21:24.874697"
+    },
+    {
+        "reading_name": "SDI Forms",
+        "relative_path": "Visual Programming\\SDI Forms.md",
+        "created": "2025-03-05T05:47:27.857504",
+        "modified": "2024-10-16T04:08:05.254573"
+    },
+    {
+        "reading_name": "VB Arrays Examples",
+        "relative_path": "Visual Programming\\VB Arrays Examples.md",
+        "created": "2025-03-05T05:47:27.859521",
+        "modified": "2024-10-16T03:24:30.789965"
+    }
+]
